@@ -1,7 +1,7 @@
 {
-  "name": "api",
+  "name": "Pokepedia",
   "version": "1.0.0",
-  "description": "trynna use api for the first time ever heheheheheh",
+  "description": "Pokemon version of Wikipedia",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
